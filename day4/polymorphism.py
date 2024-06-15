@@ -6,7 +6,6 @@
 
 
 # Method overriding - It takes the latest method argument
-"""
 class A:
     def method_1(self, name):
         print(f"Hey {name} how are you?")
@@ -24,5 +23,3 @@ class B:
 ob = A()
 ob.method_1()  # Calls method_1 of class A with no arguments
 ob.method_1("Akshaya") # TypeError: A.method_1() takes 1 positional argument but 2 were given - because python takes latest positional argument
-"""
-
