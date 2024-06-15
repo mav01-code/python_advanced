@@ -4,13 +4,23 @@ class Sample(ABC):
     @abstractmethod
     def hello(self):
         print("say hello")
-
+    
     def sayHi(self):
         print("Hi")
 
+class Example(Sample):
+    def hello(self):
+        pass
+
+    def sayHi(self):
+        print("Hi! lets go out")
+    
+ob = Example()
+ob.sayHi()
+
 # Cannot create objects for an abstract class
-ob = Sample()
-ob.hello()
+# ob = Sample()
+# ob.hello()
 
 """
 Rules for abstract class:
