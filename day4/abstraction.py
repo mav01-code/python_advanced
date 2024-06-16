@@ -30,3 +30,6 @@ Rules for abstract class:
 4) We provide method definitions for child classes
 5) Mandatory to provide definitions for all abstract methods (doesn't matter if you use them or not)
 """
+
+# Task
+# Build a library management system Book - ISBN number, author, name, dept, price, manufacturing date; Library - Array which consists of objects of classes - book

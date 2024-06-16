@@ -19,3 +19,12 @@ Task - 2
 1) Classes and Objects
 2) Constructor and Destructor
 3) Inheritance and it's types
+
+# Day - 4
+1) Encapsulation - Encapsulation by class & package
+2) Polymorphism
+3) Inheritance & it's types
+4) Abstraction - abstract method, class & interface
+
+Task - 4
+--Library Management System using OOP concepts--
