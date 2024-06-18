@@ -36,3 +36,11 @@ res = reduce(lambda a,b: a*b, data)
 print(res)
 """
 
+# Print ages which are >18
+# ages = [12,45,23,25,78,96,15,13]
+# adult = list(filter(lambda age: age>18, ages))
+# print(adult)
+
+data = [1,2,3,4,5]
+res = list(map(lambda num:num*num, data))
+print(res)
