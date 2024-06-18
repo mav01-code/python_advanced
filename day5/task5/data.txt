@@ -1,0 +1,14 @@
+Role: Student & Faculty
+
+Features : 
+1) Add Student(s)
+2) Update Student(s)
+3) Get Student(s) info
+4) Display Student(s) details
+
+Student details
+1) Name
+2) Email
+3) Roll Number
+
+Student database - JSON/CSV
