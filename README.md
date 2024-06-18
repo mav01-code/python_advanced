@@ -32,3 +32,4 @@ Task - 4
 # Day - 5
 1) Files - JSON, CSV
 2) Map, filter and reduce functions
+3) Lambda functions
