@@ -11,4 +11,4 @@ Student details
 2) Email
 3) Roll Number
 
-Student database - JSON/CSV
+Student database - JSON / CSV
