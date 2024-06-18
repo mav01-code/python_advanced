@@ -31,5 +31,5 @@ def func(a, b):
     return a+b
 
 data = [1,2,3,4,5]
-sum = reduce(func, data)
+sum = reduce(func, data, 10) # initial value = 10
 print(sum)
