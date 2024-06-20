@@ -14,4 +14,9 @@ $ : ends with
 \D : not a Digit
 \w : word characters (a-z)(A-Z)
 \W : not a word character
+\s : 
+\B : return words
 ------------------------------------------------------------------
+[]: match the characters in brackets
+[^ ]: match the characters which are not in brackets
+(): group
