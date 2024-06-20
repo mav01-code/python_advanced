@@ -9,3 +9,16 @@ swapna.ykr@gmail.com
 Mr Nagarjuna Reddy
 Mrs.Swapna Reddy
 Ms.Akshaya Varshini
+
+----------------------------Database commands-------------------------------
+
+DML
+    1) insert
+    2) update
+    3) delete
+DDL
+    1) create
+    2) drop
+    3) truncate
+DQL
+    1) select
